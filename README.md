@@ -1,9 +1,11 @@
-### Hi there 👋
+### Olá!!! 👋
+
+Meu nome é Márcio Morais sou desenvolvedo Front End focado na linguagem de programação C# e .NET
 
 <div>  
   <img src="https://github-readme-stats.vercel.app/api?username=marcio-morais&show_icons=true&theme=dark"/>  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-morais&repo=github-readme-stats"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-morais&layout=compact"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-morais&repo=github-readme-stats"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-morais&layout=Compact"/>
 </div>
 
 <!--
