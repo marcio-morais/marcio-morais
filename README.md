@@ -1,6 +1,6 @@
 ### Olá!!! 👋
 
-Meu nome é Márcio Morais sou desenvolvedo Front End focado na linguagem de programação C# e .NET
+Sou Márcio Morais, desenvolvedo Back-End focado na linguagem de programação C# e .NET
 
 <div>  
   <img src="https://github-readme-stats.vercel.app/api?username=marcio-morais&show_icons=true&theme=dark"/>                                                               
