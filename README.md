@@ -1,12 +1,10 @@
-### Olá!!! 👋
+### Olá! Eu sou Márcio Morais 👋
 
-<ul>
-  
-<li>💼 Sou um desenvolvedor Back-End com experiência em C#, Java e SQL Server.</li>
-<li>🎓 Bacharel em Analise e desenvolviento de software.</li>
-<li>🌱 Atualmente aprendendo sobre microserviços e arquitetura em nuvem.</li>
-</ul>
+<div>💼 Sou um desenvolvedor Back-End com experiência em C#, Java e SQL Server.</div>
+<div>🎓 Bacharel em Análise e Desenvolvimento de Software.</div>
+<div>🌱 Atualmente aprendendo sobre microserviços e arquitetura em nuvem.</div>
 
+<p></p>
 
 <div>  
   <img src="https://github-readme-stats.vercel.app/api?username=marcio-morais&show_icons=true&theme=dark"/>                                                              
