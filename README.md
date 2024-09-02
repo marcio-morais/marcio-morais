@@ -1,6 +1,9 @@
 ### Olá!!! 👋
 
-Sou Márcio Morais, desenvolvedo Back-End.
+💼 Sou um desenvolvedor Back-End com experiência em C#, Java e SQL Server.
+🎓 Bacharel em Analise e desenvolviento de software.
+🌱 Atualmente aprendendo sobre microserviços e arquitetura em nuvem.
+
 
 <div>  
   <img src="https://github-readme-stats.vercel.app/api?username=marcio-morais&show_icons=true&theme=dark"/>                                                              
