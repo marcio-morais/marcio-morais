@@ -1,8 +1,11 @@
 ### Olá!!! 👋
 
-💼 Sou um desenvolvedor Back-End com experiência em C#, Java e SQL Server.
-🎓 Bacharel em Analise e desenvolviento de software.
-🌱 Atualmente aprendendo sobre microserviços e arquitetura em nuvem.
+<ul>
+  
+<li>💼 Sou um desenvolvedor Back-End com experiência em C#, Java e SQL Server.</li>
+<li>🎓 Bacharel em Analise e desenvolviento de software.</li>
+<li>🌱 Atualmente aprendendo sobre microserviços e arquitetura em nuvem.</li>
+</ul>
 
 
 <div>  
