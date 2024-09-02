@@ -22,11 +22,6 @@ Sou Márcio Morais, desenvolvedo Back-End.
   <a href="https://www.linkedin.com/in/marcio-morais" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-
 <!--
 **marcio-morais/marcio-morais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
