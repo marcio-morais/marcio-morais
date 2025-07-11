@@ -18,12 +18,25 @@
 
 #### 🛠️ **Tecnologias e Ferramentas**
 
-<div style="display: inline_block">
-  <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server"/>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
-  <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core"/>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+<div style="display: flex; gap: 10px;">
+  <div style="background: #fff; border-radius: 8px; padding: 8px; display: inline-block;">
+    <img alt="SQL Server" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server"/>
+  </div>
+  <div style="background: #fff; border-radius: 8px; padding: 8px; display: inline-block;">
+    <img alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+  </div>
+  <div style="background: #fff; border-radius: 8px; padding: 8px; display: inline-block;">
+    <img alt=".NET Core" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core"/>
+  </div>
+  <div style="background: #fff; border-radius: 8px; padding: 8px; display: inline-block;">
+    <img alt="Csharp" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#"/>
+  </div>
+  <div style="background: #fff; border-radius: 8px; padding: 8px; display: inline-block;">
+    <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+  </div>
+  <div style="background: #fff; border-radius: 8px; padding: 8px; display: inline-block;">
+    <img alt="React Native" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native"/>
+  </div>
 </div>
 
 ---
