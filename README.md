@@ -18,26 +18,28 @@
 
 #### 🛠️ **Tecnologias e Ferramentas**
 
-<div style="display: flex; gap: 10px;">
-  <div style="background: #fff; border-radius: 8px; padding: 8px; display: inline-block;">
-    <img alt="SQL Server" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server"/>
-  </div>
-  <div style="background: #fff; border-radius: 8px; padding: 8px; display: inline-block;">
-    <img alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
-  </div>
-  <div style="background: #fff; border-radius: 8px; padding: 8px; display: inline-block;">
-    <img alt=".NET Core" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core"/>
-  </div>
-  <div style="background: #fff; border-radius: 8px; padding: 8px; display: inline-block;">
-    <img alt="Csharp" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#"/>
-  </div>
-  <div style="background: #fff; border-radius: 8px; padding: 8px; display: inline-block;">
-    <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
-  </div>
-  <div style="background: #fff; border-radius: 8px; padding: 8px; display: inline-block;">
-    <img alt="React Native" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native"/>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center" bgcolor="#fff" style="border-radius:10px; padding:12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" height="40" title="SQL Server"/>
+    </td>
+    <td align="center" bgcolor="#fff" style="border-radius:10px; padding:12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" title="Java"/>
+    </td>
+    <td align="center" bgcolor="#fff" style="border-radius:10px; padding:12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" height="40" title=".NET Core"/>
+    </td>
+    <td align="center" bgcolor="#fff" style="border-radius:10px; padding:12px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Csharp" height="40" title="C#"/>
+    </td>
+    <td align="center" bgcolor="#fff" style="border-radius:10px; padding:12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" title="React"/>
+    </td>
+    <td align="center" bgcolor="#fff" style="border-radius:10px; padding:12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" height="40" title="React Native"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
