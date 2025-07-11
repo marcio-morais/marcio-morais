@@ -34,9 +34,6 @@
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" title="React" style="background-color: #fff; border-radius: 8px; padding: 6px; margin-right: 8px;">
   </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" height="40" title="React Native" style="background-color: #fff; border-radius: 8px; padding: 6px; margin-right: 8px;">
-  </span>
 </p>
 
 ---
