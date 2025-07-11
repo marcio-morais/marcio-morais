@@ -7,9 +7,16 @@
 ---
 
 #### 📊 **Estatísticas do GitHub**
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=marcio-morais&show_icons=true&theme=dark" alt="Márcio Morais GitHub Stats"/>
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-morais&layout=compact&langs_count=7&theme=dark" alt="Top Langs"/>-->
+</div>
+
+<div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=marcio-morais&show_icons=true&theme=dark" alt="Márcio Morais GitHub Stats"/>                                                              
+  <!--<src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-morais&layout=compact&langs_count=7&theme=dark"/>-->
+  <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-morais&repo=github-readme-stats"/> -->
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-morais&layout=Compact"/>-->
 </div>
 
 ---
