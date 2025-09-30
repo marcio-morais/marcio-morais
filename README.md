@@ -17,26 +17,20 @@
 ---
 
 #### 🛠️ **Tecnologias e Ferramentas**
-
-<div style="background-color: #fff;">
-<p>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" height="40" title="SQL Server" style="background-color: #fff; border-radius: 8px; padding: 6px; margin-right: 8px;">
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" title="Java" style="background-color: #fff; border-radius: 8px; padding: 6px; margin-right: 8px;">
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" height="40" title=".NET Core" style="background-color: #fff; border-radius: 8px; padding: 6px; margin-right: 8px;">
-  </span>
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Csharp" height="40" title="C#" style="background-color: #fff; border-radius: 8px; padding: 6px; margin-right: 8px;">
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" title="React" style="background-color: #fff; border-radius: 8px; padding: 6px; margin-right: 8px;">
-  </span>
+<p align="left">
+  
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core"/>
+  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
 </p>
-</div>
 ---
 
 #### 📫 **Contato**
