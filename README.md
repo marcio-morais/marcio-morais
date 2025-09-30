@@ -18,6 +18,7 @@
 
 #### 🛠️ **Tecnologias e Ferramentas**
 
+<div style="background-color: #fff;">
 <p>
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" height="40" title="SQL Server" style="background-color: #fff; border-radius: 8px; padding: 6px; margin-right: 8px;">
@@ -35,7 +36,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" title="React" style="background-color: #fff; border-radius: 8px; padding: 6px; margin-right: 8px;">
   </span>
 </p>
-
+</div>
 ---
 
 #### 📫 **Contato**
